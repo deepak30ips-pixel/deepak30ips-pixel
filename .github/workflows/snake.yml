@@ -2,12 +2,14 @@ name: 🐍 Generate Contribution Snake
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -16,8 +18,8 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: 🐍 Generate Snake (Light Mode)
-        uses: Platane/snk/svg-only@v3
+      - name: 🐍 Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
