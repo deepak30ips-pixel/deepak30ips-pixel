@@ -135,7 +135,7 @@ me.say_hi()
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepak30ips-pixel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deepak30ips-pixel&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
 </div>
 
 ---
@@ -146,7 +146,7 @@ me.say_hi()
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak30ips-pixel&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area_color=6AD3F7&area=true&hide_border=true&custom_title=Deepak's%20Contribution%20Graph" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak30ips-pixel&theme=github-compact&hide_border=true&custom_title=Deepak%27s%20Contribution%20Graph" width="97%" />
 </div>
 
 ---
@@ -174,12 +174,12 @@ me.say_hi()
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/deepak30ips-pixel/YOUR_PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak30ips-pixel&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7" />
+  <a href="https://github.com/deepak30ips-pixel/deepak-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak30ips-pixel&repo=deepak-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7" />
   </a>
   &nbsp;
-  <a href="https://github.com/deepak30ips-pixel/YOUR_PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak30ips-pixel&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7" />
+  <a href="https://github.com/deepak30ips-pixel/deepak30ips-pixel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak30ips-pixel&repo=deepak30ips-pixel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7" />
   </a>
 </div>
 
@@ -209,15 +209,11 @@ me.say_hi()
 <!-- ████████████████████████████████████████████████ -->
 <!--           SPOTIFY NOW PLAYING                   -->
 <!-- ████████████████████████████████████████████████ -->
-## 🎵 Now Playing
+## 🎵 Vibes While Coding
 
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=6AD3F7&bar_color_cover=true" />
-  </a>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
 </div>
-
-> 🎧 *See SETUP.md for how to link your Spotify account (takes ~5 mins)*
 
 ---
 
